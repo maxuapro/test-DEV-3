@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding: 40px;
+}
+
+#inp {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* #output{
+    border: 1px solid black;
+} */
+
+.draggable {
+    font-family: 'Oswald', sans-serif;
+    display: inline;
+    user-select: none;
+}
